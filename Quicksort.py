@@ -1,3 +1,4 @@
+# Test commit file
 # Bước 1: Tạo mảng chứa danh sách các số nguyên nhập vào
 
 # Yêu cầu người dùng nhập một chuỗi các số, cách nhau bằng dấu cách
